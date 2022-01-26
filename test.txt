@@ -2,3 +2,6 @@ test.txt
 입력
 ex
 
+line
+line
+line
